@@ -22,7 +22,7 @@
 ![사진1](https://github.com/MINGUKKANG/DCGAN_tensorflow/blob/master/images/schemetic.JPG)
 
 ## Architecture guidelines for stable Deep Convolutional GANs
-![사진2]()
+![사진2](https://github.com/MINGUKKANG/DCGAN_tensorflow/blob/master/images/guideline.JPG)
 
 ## Code
 
