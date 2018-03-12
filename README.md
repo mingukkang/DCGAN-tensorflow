@@ -139,9 +139,9 @@ def build_net(self):
 </table>
 
 ## Reference Papers
-**1. https://arxiv.org/abs/1312.6114**
+**1. https://arxiv.org/abs/1406.2661 -- GAN**
 
-**2. https://arxiv.org/abs/1606.05908**
+**2. https://arxiv.org/abs/1511.06434 -- DCGAN**
 
 ## References
 
