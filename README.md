@@ -2,7 +2,7 @@
 
 **I Write a tensorflow code for DCGAN that generates MNIST Data.**
 
-You can get the results of DCGAN with command:
+You can get the results of DCGAN with following command:
 ```
 python main.py --n_epoch 100
 ```
