@@ -18,11 +18,11 @@
 
 **- Tensorflow-gpu version:  1.3.0rc2**
 
-## Architecture Guidelines for Stable Deep Convolutional GANs
-![사진1](https://github.com/MINGUKKANG/DCGAN_tensorflow/blob/master/images/guideline.JPG)
+## Schematic of GAN
+![사진1](https://github.com/MINGUKKANG/DCGAN_tensorflow/blob/master/images/schemetic.JPG)
 
-## Schematic of DCGAN
-![사진2](https://github.com/MINGUKKANG/DCGAN_tensorflow/blob/master/images/schemetic.JPG)
+## Architecture guidelines for stable Deep Convolutional GANs
+![사진2]()
 
 ## Code
 
