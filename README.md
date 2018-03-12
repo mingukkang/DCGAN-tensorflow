@@ -4,9 +4,10 @@
 
 **This code has following features**
 1. latent Vector is 100 dimensions.
-2. We do not applying batch_normalization to the generator output layer, But we apply batch_normalization to the discriminator input layer.
 
+2. We do not applying batch_normalization to the generator output layer, But we apply batch_normalization to the discriminator input layer.
 (※ In the paper, the author claims not applying batchnorm to the generator output layer and discriminator input layer.)
+
 3. We resized MNIST_Data to 64x64x1 and normalized it.
 
 
