@@ -10,7 +10,7 @@ python main.py --n_epoch 100
 **This code has following features**
 1. latent Vector is 100 dimensions.
 
-2. We do not apply batchnorm to the generator output layer, And we do not apply batchnorm to the discriminator input layer.
+2. We do not apply batchnorm to the generator output layer, And we also do not apply batchnorm to the discriminator input layer.
 
 3. We resized MNIST_Data to 64x64x1 and normalized it.
 
