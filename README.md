@@ -27,6 +27,7 @@
 ## Code
 
 **1. Generator**
+![사진3](https://github.com/MINGUKKANG/DCGAN_tensorflow/blob/master/images/DCGAN.png)
 ```python
 def Generator(self, z, is_training, reuse):
     depths = [1024, 512, 256, 128] + [self.data_shape[2]]
