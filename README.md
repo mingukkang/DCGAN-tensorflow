@@ -122,15 +122,12 @@ def build_net(self):
 ```
 
 ## Result
-**1. Comparing the generated images with the original images(n_z = 10)**
 
-![사진5](https://github.com/MINGUKKANG/VAE_tensorflow/blob/master/image/Result1.PNG)
-
-**2. Result, When n_z =2**
+**1. Result of DCGAN**
 <table align='center'>
 <tr align='center'>
-<td> Distribution of MNIST </td>
-<td> Manifold of MNIST </td>
+<td> Animation of DCGAN </td>
+<td> DCGAN After 100 Epoch </td>
 </tr>
 <tr>
 <td><img src = 'image/result2.JPG' height = '400px'>
