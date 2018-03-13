@@ -5,7 +5,7 @@ import model
 flags = tf.app.flags
 FLAGS = flags.FLAGS
 flags.DEFINE_integer("z_d", 100, "Dimension of z")
-flags.DEFINE_float("learning_rate", 0.002, "learning_rate")
+flags.DEFINE_float("learning_rate", 0.0002, "learning_rate")
 flags.DEFINE_integer("batch_size", 64, "batch_size")
 flags.DEFINE_integer("n_epoch", 100, "number of epoch")
 
