@@ -134,7 +134,7 @@ def build_net(self):
 <td> DCGAN After 100 Epoch </td>
 </tr>
 <tr>
-<td><img src = 'images/MNIST.Animation.gif' height = '400px'>
+<td><img src = 'images/MNIST_Animation.gif' height = '400px'>
 <td><img src = 'images/Mnist_canvas100.png' height = '400px'>
 </tr>
 </table>
